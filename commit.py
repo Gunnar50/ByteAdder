@@ -1,9 +1,9 @@
 import os
 import random
 
-month = "07"
-start_day = 2
-end_day = 8
+month = "06"
+start_day = 25
+end_day = 30
 
 for day in range(start_day, end_day+1):
     if random.randint(0, 1) == 0:
