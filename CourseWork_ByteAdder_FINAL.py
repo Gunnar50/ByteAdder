@@ -1,6 +1,7 @@
 import time  # Imports time function
 
 
+
 # SIMPLE CALCULATIONS FUNCTIONS START HERE #
 def multiply():  # Multiply function
     binA, binB = binInput()  # Takes value in binary format
